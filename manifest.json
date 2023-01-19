@@ -19,7 +19,7 @@
         "name": "Emmanuel Averty",
         "email": "emmanuel.averty@free.fr"
     },
-    "multi_instance": true,
+    "multi_instance": false,
     "services": [
         "nginx",
         "mysql"
